@@ -1,39 +1,41 @@
 # KCS151P -Programming-for-Problem-Solving-Lab-
 Implementation of all programs mentioned in Syllabus of first year of B.Tech
-Lab 1
-  1. Write a program to calculate the area of triangle using formula at=√s(sa)(s-b)(s-c) 
+  
+  Lab 1
 
-  2.  Basic salary of an employee is input through the keyboard. The DA is 25%
-    of the basic salary while the HRA is 15% of the basic salary. Provident
-    Fund is deducted at the rate of 10% of the gross salary (BS+DA+HRA).
-    program to calculate the Net Salary. 
+     1. Write a program to calculate the area of triangle using formula at=√s(sa)(s-b)(s-c) 
 
-
-  3.   Write a program to determine the roots of quadratic equation.
-
-  4.   Write a program to find the largest of three numbers using nested if else
+     2.  Basic salary of an employee is input through the keyboard. The DA is 25%
+         of the basic salary while the HRA is 15% of the basic salary. Provident
+         Fund is deducted at the rate of 10% of the gross salary (BS+DA+HRA).
+         program to calculate the Net Salary. 
 
 
+    3.   Write a program to determine the roots of quadratic equation.
 
-  5.   Write a program to receive marks of physics, chemistry & maths from user
-      & check its eligibility for course if
-     a) Marks of physics > 40
-     b) Marks of chemistry > 50
-     c) Marks of math’s > 60
-     d) Total of physics & math’s marks > 150
-      or
-      e) Total of three subjects marks > 200 
+     4.   Write a program to find the largest of three numbers using nested if else
+
+
+
+     5.   Write a program to receive marks of physics, chemistry & maths from user
+          & check its eligibility for course if
+          a) Marks of physics > 40
+           b) Marks of chemistry > 50
+          c) Marks of math’s > 60
+          d) Total of physics & math’s marks > 150
+            or
+           e) Total of three subjects marks > 200 
 
 
 LAB 2 
 
-   6.   Write a program to find the value of y for a particular value of n. The a, x, b, n is input by user
-      if n=1 y=ax%b
-      if n=2 y=ax2+b2
-       if n=3 y=a-bx
-       if n=4 y=a+x/b 
+      6.   Write a program to find the value of y for a particular value of n. The a, x, b, n is input by user
+           if n=1 y=ax%b
+           if n=2 y=ax2+b2
+           if n=3 y=a-bx
+           if n=4 y=a+x/b 
 
-   7.  Write a program to construct a Fibonacci series upto n terms. 
+      7.  Write a program to construct a Fibonacci series upto n terms. 
 
 
 
@@ -59,7 +61,7 @@ Lab3
 
 
 
-   13.Write a program to draw the following figure:
+    13.Write a program to draw the following figure:
         3 2 1
            21
            1
@@ -78,13 +80,14 @@ Lab3
         9 
 
 Lab4 
-    15. Write a function that return sum of all the odd digits of a given positive no
+     
+     15. Write a function that return sum of all the odd digits of a given positive no
       entered through keyboard. 
 
-    16.Write a program to print area of rectangle using function & return its value
+     16.Write a program to print area of rectangle using function & return its value
       to main function. 
 
-    17.Write a program to calculate the factorial for given number using function. 
+     17.Write a program to calculate the factorial for given number using function. 
 
      18.Write a program to find sum of Fibonacci series using function. 
 
@@ -97,40 +100,39 @@ Lab5
     20.Write a program to find the factorial of given number using recursion. 
 
 
-
-
-   21.Write a program to find the sum of digits of a 5 digit number using
+    21.Write a program to find the sum of digits of a 5 digit number using
      recursion. 
 
-   22.Write a program to calculate the GCD of given numbers using recursion. 
+    22.Write a program to calculate the GCD of given numbers using recursion. 
 
-   23.Write a program to convert decimal number in to binary number.
+    23.Write a program to convert decimal number in to binary number.
 
-   24.Write a program to convert binary number in to decimal number.  
+    24.Write a program to convert binary number in to decimal number.  
    
+
 Lab 6
 
-  25.Write a program to delete duplicate element in a list of 10 elements &
+    25.Write a program to delete duplicate element in a list of 10 elements &
      display it on screen. 
 
-  26.Write a program to merge two sorted array & no element is repeated during
+    26.Write a program to merge two sorted array & no element is repeated during
      merging. 
 
 
-   27.Write a program to evaluate the addition of diagonal elements of two
+    27.Write a program to evaluate the addition of diagonal elements of two
       square matrixes
 
-   28.Write a program to find the transpose of a given matrix & check whether it
+     28.Write a program to find the transpose of a given matrix & check whether it
        is symmetric or not. 
 
     29.Write a program to print the multiplication of two N*N (Square) matrix. 
 
 Lab 7
 
-   30.Write a program in C to check whether the given string is a palindrome or  not
+    30.Write a program in C to check whether the given string is a palindrome or  not
 
 
-   31.Write program to sort the array of character (String) in alphabetical order
+    31.Write program to sort the array of character (String) in alphabetical order
      like STRING in GINRST.
 
 
@@ -145,12 +147,12 @@ Lab 7
 
 Lab 8
 
-   34.Write a program to compare two given dates. To store a date uses a
+    34.Write a program to compare two given dates. To store a date uses a
       structure that contains three members namely day, month and year. If the
       dates are equal then display message equal otherwise unequal. 
 
-   35.Define a structure that can describe a hotel. It should have the member that
-     includes the name, address, grade, room charge and number of rooms.
+    35.Define a structure that can describe a hotel. It should have the member that
+      includes the name, address, grade, room charge and number of rooms.
       Write a function to print out hotel of given grade in order of room charges. 
 
 
@@ -180,7 +182,7 @@ Lab 9
       a) To sort the list of numbers through pointer
      b) To reverse the string through pointer. 
 
-   Lab 9
+   Lab 10
 
      42. Write a program to find the largest no among 20 integers array using
     dynamic memory allocation.
