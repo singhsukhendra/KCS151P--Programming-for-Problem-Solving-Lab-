@@ -1,6 +1,6 @@
 #Dr. APJ Abdul Kalam Techinal University Lucknow-
-       #First Year Computer Programming Lab Programs Implementation
-       # KCS151P -Programming-for-Problem-Solving-Lab-
+#First Year Computer Programming Lab Programs Implementation
+# KCS151P -Programming-for-Problem-Solving-Lab-
 Implementation of all programs mentioned in Syllabus of first year of B.Tech-
   
   Lab 1
